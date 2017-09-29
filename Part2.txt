@@ -1,0 +1,22 @@
+PART 2: MVC for Lab4: 
+Model: classes that hold data, the current state of what's going on
+View: classes that display what's going on with the model, either on a GUI or printed to a command line
+Controller: classes that make changes to the model and the view, based on user input or other threads (like timers)
+Application: the class that runs the program 
+
+*MODEL:
+	+ DrawableBalloon.java
+	+ DrawableBubble.java
+	+ DrawableCircle.java
+	+ DrawableTarget.java
+	
+*VIEW:
+	+ CirclePanel.java
+	
+*CONTROLLER:
+	+ CircleDisplay.java
+	
+*APPLICATION:
+ 	+ CircleApplication.java
+ 	
+ 	
